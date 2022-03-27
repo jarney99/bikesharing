@@ -14,3 +14,6 @@ With this graph we can see the most popular times for people to rent bikes. For 
 Here we can see the graph of when different genders rent bikes. Men rent more often than women, but they rent at around the same time. 
 <img width="1060" alt="Screen Shot 2022-03-27 at 6 31 18 PM" src="https://user-images.githubusercontent.com/95194554/160305907-89d3cf97-825b-4f6d-b0a9-44839c603c08.png">
 This is a comparison between subscribers and customers. We can see that subscribers rent much more than customers. 
+
+## Summary
+Based on the graphs made during the project, we can see that men generally rent more than women. However men and women rent for the same amount of time. It is also clear that subscribers rent much more than customers. The goal should be to get more subscribers because according to this data that would mean more bikes rented out. 
