@@ -17,3 +17,6 @@ This is a comparison between subscribers and customers. We can see that subscrib
 
 ## Summary
 Based on the graphs made during the project, we can see that men generally rent more than women. However men and women rent for the same amount of time. It is also clear that subscribers rent much more than customers. The goal should be to get more subscribers because according to this data that would mean more bikes rented out. 
+
+## Tableau Link
+https://public.tableau.com/app/profile/joseph.arney/viz/ChallengeStory_16484223811980/ChallengeStory?publish=yes
